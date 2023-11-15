@@ -1,0 +1,229 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #111;
+}
+
+/** Navbar starting */
+
+
+#netflixTitle1 {
+    height: 100px;
+    width: 140px;
+    color: rgb(247, 40, 40);
+    font-size: 40px;
+}
+
+#navbarButton {
+    margin-left: 10px;
+    border: none;
+    height: 20px;
+    background-color: transparent;
+    color: rgb(155, 147, 147);
+    font-size: 19px;
+}
+
+#navbarButton:hover {
+    margin-left: 10px;
+    border: none;
+    height: 20px;
+    background-color: transparent;
+    color: white;
+    font-size: 19px;
+    transition: color 0.6s;
+    cursor: pointer;
+}
+
+#searchButton {
+    margin-left: 430px;
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    color: rgb(155, 147, 147);
+}
+
+#searchButton:hover {
+    margin-left: 430px;
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    color: white;
+    transition: color 0.6s;
+    cursor: pointer;
+}
+
+#bellButton {
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    color: rgb(155, 147, 147);
+}
+
+#bellButton:hover {
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    color: white;
+    transition: color 0.6s;
+    cursor: pointer;
+}
+
+#avatar {
+    height: 30px;
+    width: 30px;
+}
+
+/** Navbar finish, movie section starting */
+
+#movieTitle {
+    margin-top: 240px;
+    margin-left: 150px;
+    font-size: xx-large;
+    color: white;
+}
+
+#summary {
+    margin-left: 150px;
+    color: white;
+}
+
+/** Movie section  finish, movie genres starting*/
+#netflixTitle {
+    margin-top: 100px;
+    margin-right: 90px;
+    font-weight: light;
+    color: white;
+}
+
+.originals {
+    display: inline;
+    justify-content: center;
+    line-height: 20px;
+}
+
+#moviesPanel {
+    margin-left: 10px;
+    height: 270px;
+    width: 140px;
+}
+
+#moviesPanel:hover {
+    cursor: pointer;
+    transition: 0.4s;
+    transform: scale(1.08);
+}
+
+#progressBar {
+    background-color: gray;
+    border: none;
+    margin-left: 30px;
+    height: 10px;
+    width: 100px;
+}
+
+#progressBar1 {
+    background-color: gray;
+    border: none;
+    margin-left: 50px;
+    height: 10px;
+    width: 100px;
+}
+
+#progressBar2 {
+    background-color: gray;
+    border: none;
+    margin-left: 50px;
+    height: 10px;
+    width: 100px;
+}
+
+#progressBar3 {
+    background-color: gray;
+    border: none;
+    margin-left: 50px;
+    height: 10px;
+    width: 100px;
+}
+
+#progressBar4 {
+    background-color: gray;
+    border: none;
+    margin-left: 50px;
+    height: 10px;
+    width: 100px;
+}
+
+#progressBar5 {
+    background-color: gray;
+    border: none;
+    margin-left: 50px;
+    height: 10px;
+    width: 100px;
+}
+
+#progressBar6 {
+    background-color: gray;
+    border: none;
+    margin-left: 50px;
+    height: 10px;
+    width: 100px;
+}
+
+#progressBar7 {
+    background-color: gray;
+    border: none;
+    margin-left: 50px;
+    height: 10px;
+    width: 100px;
+}
+
+#progressBar8 {
+    background-color: gray;
+    border: none;
+    margin-left: 50px;
+    height: 10px;
+    width: 100px;
+}
+
+/** Info section starting */
+
+.infoSection {
+    background-color: #282828;
+    height: 300px;
+    color: white;
+}
+
+.socialMediaButtons{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    padding-top: 80px;
+}
+
+#socialMediaButton {
+    height: 20px;
+    width: 20px;
+    border: none;
+    background-color: transparent;
+    font-size: 30px;
+    margin-right: 30px;
+    color: white;
+}
+
+#socialMediaButton {
+    height: 20px;
+    width: 20px;
+    border: none;
+    background-color: transparent;
+    font-size: 30px;
+    margin-right: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+#whoMade{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
